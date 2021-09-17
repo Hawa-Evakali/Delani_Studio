@@ -12,13 +12,7 @@ To access this project on your local files, you can always clone this project us
 Open your terminal you can use the shortcut ctrl alt T(press the key T)
 Use this command to clone `$ git clone https://github.com/Hawa-Evakali/Delani_Studio.git
 This will clone the repositoty into your local folder I hope you like the progect
-BDD
-As a user, you should be able to;
-
-See a small description of what the application does on the landing page.
-Enter my birthday through a form
-Choose what gender I am.
-Click the submit button to see what my Akan name would be
+## BDD
 Live Site
 View [Live] ( https://github.com/Hawa-Evakali/Delani_Studio.git)
 
