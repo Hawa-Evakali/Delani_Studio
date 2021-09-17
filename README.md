@@ -22,7 +22,7 @@ Click the submit button to see what my Akan name would be
 Live Site
 View [Live] ( https://github.com/Hawa-Evakali/Delani_Studio.git)
 
-Technologies Used
+### Technologies Used
 HTML CSS JAVASCRIPT BOOTSRAP GIT Contact information You can reach me through my E-mail address
 
 ( ailabeyqute@gmail.com) Licence And Copyright Information Copyright 2021 Hawa Evakali.
