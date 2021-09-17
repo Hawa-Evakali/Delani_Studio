@@ -1,4 +1,4 @@
-Project Name
+## Project Name
 Delani_Studio,
 Project Description
 This website is a platform that assists the user to generate Akan Names based on their birth-days and gender. Author(s) information Hawa Evakali.
